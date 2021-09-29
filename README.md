@@ -4,19 +4,17 @@ Examples of generated scenes rendered with rotating cameras:
 
 
 
-https://user-images.githubusercontent.com/91441873/135304375-e354f315-7447-4432-8613-eda52a0ba41f.mp4
+https://user-images.githubusercontent.com/91441873/135305355-2af2fb8f-9406-468a-8bd3-4a9527c4f911.mp4
 
 
 
-
-
-https://user-images.githubusercontent.com/91441873/135304797-4fe3a5be-7a7b-443a-8d0a-1eabd276dafe.mp4
-
-
-
-https://user-images.githubusercontent.com/91441873/135304834-5d9a46d4-0b2b-4e0a-94b0-0decce3d3f67.mp4
+https://user-images.githubusercontent.com/91441873/135305376-96fec416-67aa-4d19-9fb8-3705ec0bcff7.mp4
 
 
 
-https://user-images.githubusercontent.com/91441873/135304850-2a7ac56e-8ad3-4787-a5fd-2a13899e97d1.mp4
+https://user-images.githubusercontent.com/91441873/135305389-29280b2d-c6b8-48e2-84e7-6bf878f58b39.mp4
+
+
+
+https://user-images.githubusercontent.com/91441873/135305395-ac22e008-b479-416a-be53-15541ce51d5a.mp4
 
